@@ -1,3 +1,4 @@
 # conflicto-pareja
 mi comida favorita es
-sancocho
+
+las costillas bbq para Manuela y sancocho para Santiago
